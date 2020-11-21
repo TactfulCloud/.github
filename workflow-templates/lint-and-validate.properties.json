@@ -1,7 +1,7 @@
 {
     "name": "Tactful Cloud CFT Review Workflow",
     "description": "Lints and Validated CloudFormation Templates.",
-    "iconName": "example-icon",
+    "iconName": "https://www.flaticon.com/svg/static/icons/svg/1749/1749046.svgxample-icon",
     "categories": [
         "Yaml"
     ]
