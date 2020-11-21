@@ -1,0 +1,8 @@
+{
+    "name": "Tactful Cloud CFT Review Workflow",
+    "description": "Lints and Validated CloudFormation Templates.",
+    "iconName": "example-icon",
+    "categories": [
+        "Yaml"
+    ]
+}
